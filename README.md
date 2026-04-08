@@ -35,7 +35,7 @@ Le système est organisé en trois modules métiers :
 
 1. **Clonage du dépôt** :
    ```bash
-   git clone <url_du_depot>
+   git clone https://github.com/Misssaba/reconnaissance_facial.git
    cd reconnaissance-faciale
  ## Création de l'environnement virtuel 
     python -m venv venv
